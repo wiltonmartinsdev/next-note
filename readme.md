@@ -5,11 +5,6 @@ A aplicação permite aos usuários adicionar notas de forma fácil e intuitiva,
 `Observação:` Essa aplicação foi desenvolvida durante a NLW Expert da RocketSeat. Mas, fiz algumas alterações personalizadas no projeto.
 
 
-
-
-
-
-
 ## Stacks Utilizadas
 
 - **React.js**: Uma biblioteca JavaScript popular para construção de interfaces de usuário.
@@ -19,8 +14,6 @@ A aplicação permite aos usuários adicionar notas de forma fácil e intuitiva,
 - **Date-fns**: Uma biblioteca para manipulação e formatação de datas em JavaScript.
 - **Lucide React**: Uma biblioteca de ícones de código aberto para React.
 
- 
-
 
 ## Pré-requisitos
 
@@ -28,9 +21,15 @@ A aplicação permite aos usuários adicionar notas de forma fácil e intuitiva,
 - NPM (Node Package Manager) para instalar as dependências necessárias do projeto.
 ## Instalação
 
+<<<<<<< HEAD
 - Clone o repositório.
 - Acesse o diretório do projeto: `cd next-note`.
 - Certifique-se de ter o Node.js e o NPM instalados em sua máquina e depois digite no terminal o comando abaixo para instalar todas as dependências necessárias do projeto.
+=======
+-   Clone o repositório.
+-   Acesse o diretório do projeto: `cd next-note`.
+-   Certifique-se de ter o Node.js e o NPM instalados em sua máquina e depois digite no terminal o comando abaixo para instalar todas as dependências necessárias do projeto.
+>>>>>>> 59c1ea9d588745e42415f6bda1cd25b642cb6423
 
         npm install
 
