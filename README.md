@@ -43,9 +43,11 @@ A aplicação permite aos usuários adicionar notas de forma fácil e intuitiva,
 
 -   A API SpeechRecognitionAPI pode não estar disponível em todos os navegadores, neste momento (13/02/2024) funciona somente nos navegadores Chrome, Edge, Safari nas suas últimas versões web.
 -   A qualidade da transcrição pode variar dependendo do ambiente e da qualidade do áudio.
-## Demonstração
 
-Insira um gif ou um link de alguma demonstração
+
+## Demonstração da Aplicação
+
+<img src="https://github.com/wiltonmartinsdev/next-note/blob/main/src/assets/project%20view.gif?raw=true" />
 
 
 ## Status do Projeto
