@@ -2,7 +2,7 @@
 
 A aplicação permite aos usuários adicionar notas de forma fácil e intuitiva, seja digitando diretamente ou gravando uma nota em áudio que será convertida automaticamente para texto. Isso é facilitado pelo uso de APIs de reconhecimento de voz disponíveis nos navegadores modernos. Além disso, a aplicação utiliza várias bibliotecas e frameworks para melhorar a experiência de desenvolvimento e a qualidade final da aplicação. Também permite que o usuário crie, visualize e exclua notas, podendo pesquisar para encontrar rapidamente as notas que você precisa.
 
-`Observação:` Essa aplicação foi desenvolvida durante a NLW Expert da RocketSeat. Mas, fiz algumas alterações personalizadas no projeto.
+`Observação:` Essa aplicação foi desenvolvida durante o NLW Expert da RocketSeat. Mas, fiz algumas alterações personalizadas no projeto.
 
 ## Stacks Utilizadas
 
