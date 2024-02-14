@@ -19,7 +19,7 @@ A aplicação permite aos usuários adicionar notas de forma fácil e intuitiva,
 ## Instalação
 
 -   Clone o repositório.
--   Acesse o diretório do projeto: `cd Notes`.
+-   Acesse o diretório do projeto: `cd next-note`.
 -   Certifique-se de ter o Node.js e o NPM instalados em sua máquina e depois digite no terminal o comando abaixo para instalar todas as dependências necessárias do projeto.
 
           npm install
