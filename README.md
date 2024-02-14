@@ -43,7 +43,7 @@ A aplicação permite aos usuários adicionar notas de forma fácil e intuitiva,
 
 `Observações:`
 
--   A API SpeechRecognitionAPI pode não estar disponível em todos os navegadores, neste momento (13/02/2024) funciona somente nos navegadores Chrome, Edge, Safari nas suas últimas versões web.
+-   A API SpeechRecognitionAPI pode não estar disponível em todos os navegadores, neste momento (14/02/2024) funciona somente nos navegadores Chrome, Edge, Safari nas suas últimas versões web.
 -   A qualidade da transcrição pode variar dependendo do ambiente e da qualidade do áudio.
 
 
