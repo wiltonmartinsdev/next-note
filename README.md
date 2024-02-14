@@ -26,7 +26,7 @@ A aplicação permite aos usuários adicionar notas de forma fácil e intuitiva,
 - Certifique-se de ter o Node.js e o NPM instalados em sua máquina e depois digite no terminal o comando abaixo para instalar todas as dependências necessárias do projeto.
 
       npm install
-    ## Execução da Aplicação
+## Execução da Aplicação
 
 -   Após instalar todas as dependências necessárias do projeto, agora poderá executá-lo da seguinte maneira:
 -   Digite no terminal o comando abaixo:
