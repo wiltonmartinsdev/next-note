@@ -56,9 +56,10 @@ A aplicação permite aos usuários adicionar notas de forma fácil e intuitiva,
 
 -   Conforme com o que foi proposto nos 3 dias do NLW Expert, a aplicação encontra-se finalizada, mas, podendo ser implementada novas funcionalidades no futuro.
 
-## Status do Projeto
+## Licença do Projeto
 
--   Conforme com o que foi proposto, nos 3 dias do NLW Expert, a aplicação encontra-se finalizada, mas, podendo ser implementada novas funcionalidades no futuro.
+![GitHub License](https://img.shields.io/github/license/wiltonmartinsdev/next-note)
+
 
 ## Aprendizados
 
