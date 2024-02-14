@@ -54,10 +54,12 @@ A aplicação permite aos usuários adicionar notas de forma fácil e intuitiva,
 
 ## Status do Projeto
 
--   Conforme com o que foi proposto, nos 3 dias do NLW Expert, a aplicação encontra-se finalizada, mas, podendo ser implementada novas funcionalidades no futuro.
+-   Conforme com o que foi proposto nos 3 dias do NLW Expert, a aplicação encontra-se finalizada, mas, podendo ser implementada novas funcionalidades no futuro.
+
 ## Status do Projeto
 
 -   Conforme com o que foi proposto, nos 3 dias do NLW Expert, a aplicação encontra-se finalizada, mas, podendo ser implementada novas funcionalidades no futuro.
+
 ## Aprendizados
 
 Desenvolver este aplicativo foi uma experiência gratificante que me proporcionou a oportunidade de aplicar meus conhecimentos e aprender novas habilidades. Acredito que os aprendizados obtidos serão valiosos para meus projetos futuros. Ao desenvolver o aplicativo de notas, tive a oportunidade de aprender e aprimorar diversas habilidades em diferentes áreas. Abaixo, listo alguns dos principais aprendizados que obtive:
