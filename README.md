@@ -19,7 +19,7 @@ A aplicação permite aos usuários adicionar notas de forma fácil e intuitiva,
 -   NPM (Node Package Manager) para instalar as dependências necessárias do projeto.
 ## Instalação
 
-- Clone o repositório.
+- Clone o repositório com o comando no seu terminal: Utizando HTTPS `git clone git@github.com:wiltonmartinsdev/next-note.git` ou utilizando SSH: `git clone git@github.com:wiltonmartinsdev/next-note.git`.
 - Acesse o diretório do projeto: `cd next-note`.
 - Certifique-se de ter o Node.js e o NPM instalados em sua máquina e depois digite no terminal o comando abaixo para instalar todas as dependências necessárias do projeto.
 
